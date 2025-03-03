@@ -16,7 +16,8 @@
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "@types/express": "^4.17.21",
-    "@types/ws": "^8.5.14"
+    "@types/ws": "^8.5.14",
+    "@repo/backend-common": "workspace:*"
   },
   "keywords": [],
   "author": "",
